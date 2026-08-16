@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/kafka.dir/src/api/ApiRouter.cpp.o"
+  "CMakeFiles/kafka.dir/src/api/ApiRouter.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/api/ApiVersionsHandler.cpp.o"
+  "CMakeFiles/kafka.dir/src/api/ApiVersionsHandler.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/api/CreatePartitionsHandler.cpp.o"
+  "CMakeFiles/kafka.dir/src/api/CreatePartitionsHandler.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/api/CreateTopicsHandler.cpp.o"
+  "CMakeFiles/kafka.dir/src/api/CreateTopicsHandler.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/api/DescribeTopicPartitionsHandler.cpp.o"
+  "CMakeFiles/kafka.dir/src/api/DescribeTopicPartitionsHandler.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/api/FetchHandler.cpp.o"
+  "CMakeFiles/kafka.dir/src/api/FetchHandler.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/api/ListOffsetsHandler.cpp.o"
+  "CMakeFiles/kafka.dir/src/api/ListOffsetsHandler.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/api/MetadataHandler.cpp.o"
+  "CMakeFiles/kafka.dir/src/api/MetadataHandler.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/api/ProduceHandler.cpp.o"
+  "CMakeFiles/kafka.dir/src/api/ProduceHandler.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/core/Server.cpp.o"
+  "CMakeFiles/kafka.dir/src/core/Server.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/core/ThreadPool.cpp.o"
+  "CMakeFiles/kafka.dir/src/core/ThreadPool.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/core/main.cpp.o"
+  "CMakeFiles/kafka.dir/src/core/main.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/protocol/BufferReader.cpp.o"
+  "CMakeFiles/kafka.dir/src/protocol/BufferReader.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/protocol/Protocol.cpp.o"
+  "CMakeFiles/kafka.dir/src/protocol/Protocol.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/protocol/Response.cpp.o"
+  "CMakeFiles/kafka.dir/src/protocol/Response.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/storage/InMemoryMetadataStore.cpp.o"
+  "CMakeFiles/kafka.dir/src/storage/InMemoryMetadataStore.cpp.o.d"
+  "CMakeFiles/kafka.dir/src/storage/KRaftMetadataStore.cpp.o"
+  "CMakeFiles/kafka.dir/src/storage/KRaftMetadataStore.cpp.o.d"
+  "kafka"
+  "kafka.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/kafka.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
